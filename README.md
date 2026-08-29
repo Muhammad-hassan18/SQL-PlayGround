@@ -1,4 +1,4 @@
-# 📊 SQL — From Fundamentals to Advanced
+# 📊 SQL : From Fundamentals to Advanced
 
 **A structured, hands-on journey to mastering SQL for Data Analytics, Business Intelligence, and real-world data work.**
 
