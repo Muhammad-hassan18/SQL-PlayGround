@@ -1,6 +1,6 @@
 # 📊 SQL — From Fundamentals to Advanced
 
-> **A structured, hands-on journey to mastering SQL for Data Analytics, Business Intelligence, and real-world data work.**
+**A structured, hands-on journey to mastering SQL for Data Analytics, Business Intelligence, and real-world data work.**
 
 This repository documents my **day-by-day SQL learning journey**, including concepts, queries, exercises, datasets, challenges, and practical projects.
 
@@ -36,7 +36,7 @@ My goal is not just to learn SQL syntax, but to develop the ability to **query, 
 
 # 🗺️ SQL Learning Roadmap
 
-## 🟢 01 — SQL Fundamentals
+## 🟢 01  SQL Fundamentals
 
 Building the foundation required to work confidently with relational databases.
 
@@ -53,7 +53,7 @@ Building the foundation required to work confidently with relational databases.
 
 ---
 
-## 🔵 02 — Database & Data Manipulation
+## 🔵 02  Database & Data Manipulation
 
 Learning how databases and their data are created and managed.
 
@@ -73,7 +73,7 @@ Understanding tables, columns, data types, and modifying data safely.
 
 ---
 
-## 🟡 03 — Filtering & Data Analysis
+## 🟡 03  Filtering & Data Analysis
 
 Learning to extract meaningful information from datasets.
 
@@ -90,7 +90,7 @@ Learning to extract meaningful information from datasets.
 
 ---
 
-## 🟠 04 — SQL Joins
+## 🟠 04  SQL Joins
 
 One of the most important SQL skills for real-world data analysis.
 
@@ -106,7 +106,7 @@ One of the most important SQL skills for real-world data analysis.
 
 ---
 
-## 🟣 05 — SQL Functions
+## 🟣 05  SQL Functions
 
 Learning how to transform and manipulate data.
 
@@ -138,7 +138,7 @@ Learning how to transform and manipulate data.
 
 ---
 
-## 🔷 06 — Conditional & Aggregate Analysis
+## 🔷 06  Conditional & Aggregate Analysis
 
 Using SQL to answer business questions and generate analytical insights.
 
@@ -153,7 +153,7 @@ Using SQL to answer business questions and generate analytical insights.
 
 ---
 
-## 🔥 07 — Window Functions
+## 🔥 07  Window Functions
 
 Developing advanced analytical SQL skills without collapsing data into groups.
 
@@ -179,7 +179,7 @@ Developing advanced analytical SQL skills without collapsing data into groups.
 
 ---
 
-## 🚀 08 — Advanced SQL
+## 🚀 08  Advanced SQL
 
 Moving from basic querying to professional SQL development.
 
@@ -194,7 +194,7 @@ Moving from basic querying to professional SQL development.
 
 ---
 
-## ⚡ 09 — SQL Performance & Optimization
+## ⚡ 09  SQL Performance & Optimization
 
 Understanding how SQL queries actually execute and how to make them faster.
 
@@ -210,7 +210,7 @@ Understanding how SQL queries actually execute and how to make them faster.
 
 ---
 
-## 🗄️ 10 — Database Programming
+## 🗄️ 10  Database Programming
 
 Understanding SQL features used in production database environments.
 
@@ -307,45 +307,9 @@ Each learning session may include:
 
 ---
 
-# 🧠 Practice Philosophy
-
-I am following a **Learn → Practice → Challenge → Apply** approach.
-
-```text
-Learn Concept
-     ↓
-Write Queries
-     ↓
-Practice with Dataset
-     ↓
-Solve SQL Challenges
-     ↓
-Build Real-World Project
-     ↓
-Review & Optimize
-```
-
-The focus is on **problem-solving and practical SQL**, not memorizing syntax.
-
----
-
-# 📊 SQL Projects
-
-Practical projects will be added as I progress.
-
-| Project                       | Skills                           | Status |
-| ----------------------------- | -------------------------------- | ------ |
-| Sales Analysis                | Filtering, Aggregation, GROUP BY | 🔄     |
-| Customer Analysis             | Joins, CASE, Aggregations        | 🔄     |
-| Business Performance Analysis | CTEs, Window Functions           | 🔄     |
-| Advanced SQL Analysis         | Subqueries, CTEs, Windows        | 🔄     |
-| SQL Performance Project       | Indexes, Execution Plans         | 🔄     |
-
----
-
 # 🎯 Career Focus
 
-This SQL journey is specifically aligned with my goal of becoming a **Data Analyst / Business Intelligence professional**.
+This SQL journey is specifically aligned with my goal of becoming a **Data Analyst professional**.
 
 I am focusing especially on SQL skills that are commonly used in:
 
@@ -356,11 +320,6 @@ I am focusing especially on SQL skills that are commonly used in:
 * Business Analysis
 * Database Analysis
 * Power BI & BI workflows
-
-### Core Skills I'm Building
-
-**SQL → Data Analysis → Power BI → Business Insights**
-
 ---
 
 # 📈 Progress Tracker
