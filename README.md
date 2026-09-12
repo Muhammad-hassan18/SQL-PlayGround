@@ -1,5 +1,5 @@
 # 📊 SQL : From Fundamentals to Advanced
-
+ 
 **A structured, hands-on journey to mastering SQL for Data Analytics, Business Intelligence, and real-world data work.**
 
 This repository documents my **day-by-day SQL learning journey**, including concepts, queries, exercises, datasets, challenges, and practical projects.
