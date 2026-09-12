@@ -5,7 +5,7 @@
 This repository documents my **day-by-day SQL learning journey**, including concepts, queries, exercises, datasets, challenges, and practical projects.
 
 My goal is not just to learn SQL syntax, but to develop the ability to **query, transform, analyze, and optimize data using SQL in real-world scenarios.** 
-
+ 
 ---
 
 ## 🎯 Learning Goals
